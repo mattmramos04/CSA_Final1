@@ -19,9 +19,4 @@ public class Shop implements ColorInterface
     String[] shops = {"Steve's Hardware", "Fairbanks Steelworks", "Moti's Iron emporium"};
 
     String[] shop = {"Pencil", "Sword", "Axe"};
-
-    @Override
-    public String isItColored() {
-        return null;
-    }
 }
