@@ -238,9 +238,5 @@ public class Driver implements ColorInterface
         }//end of the 5th while loop
     }//end of the main method
 
-    @Override
-    public String isItColored()
-    {
-        return null;
-    }
+  
 }//end of the class
