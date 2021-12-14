@@ -73,10 +73,4 @@ public class Enemies implements ColorInterface
         Orc = newOrc;
     }
 
-
-    @Override
-    public String isItColored()
-    {
-        return "I have no idea";
-    }
 }
