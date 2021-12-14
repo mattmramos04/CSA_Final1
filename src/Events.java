@@ -42,9 +42,4 @@ public class Events implements ColorInterface
 
     String shopEvent = "Chonky walks to Steve's Hardware";
     String shopEvent2 = "Press 2 to open the door ";
-
-    @Override
-    public String isItColored() {
-        return null;
-    }
 }
